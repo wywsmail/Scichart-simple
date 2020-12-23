@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "incare-19939"
+  },
+  "targets": {
+    "incare-19939": {
+      "hosting": {
+        "incare-dev2": [
+          "incare-dev2"
+        ]
+      }
+    }
+  }
+}
